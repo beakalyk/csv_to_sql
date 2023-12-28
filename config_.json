@@ -1,0 +1,15 @@
+{
+  "log_folder": "C:/Users/ybeakal/Documents/SF_converter/log/",
+  "folder_table_mapping": {
+    "C:/Users/xxxx/Documents/21122023/data/SGP/": "Table_name_1",
+    "C:/Users/xxxx/Documents/21122023/data/NSG/": "Table_name_1",
+    "C:/Users/xxxx/Documents/21122023/data/DIR/": "Table_name_1"
+  },
+  "server_name": "your_server_name",
+  "database_name": "your_database_name",
+  "sql_username": "your_username",
+  "sql_password": "your_password",
+  "smtp_server": "your_smtp_server",
+  "sender_email": "your_sender_email",
+  "recipient_emails": ["recipient1@example.com", "recipient2@example.com"]
+}
